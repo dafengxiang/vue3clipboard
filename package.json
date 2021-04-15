@@ -1,0 +1,26 @@
+{
+  "name": "vue3.0-clipboard",
+  "version": "1.0.0",
+  "description": "适配vue3.0版本的剪切板复制插件。",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "剪切板",
+    "vue3",
+    "复制",
+    "clipboard",
+    "vue3.0"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dafengxiang/vue3clipboard.git"
+  },
+  "author": "dafengxiang",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dafengxiang/vue3clipboard/issues"
+  },
+  "homepage": "https://github.com/dafengxiang/vue3clipboard#readme"
+}
