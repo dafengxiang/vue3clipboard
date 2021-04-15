@@ -1,4 +1,4 @@
-# vue3-clipboard
+# vue3.0-clipboard
 
 A simple vuejs 3 binding for clipboard.js
 
